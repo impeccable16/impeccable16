@@ -4,7 +4,7 @@
          width="45" />  I am Riya Singh </h1>
 <h5 align="center">
 
-A 3rd year undergraduate majoring in Computer Science and Engineering with a specialization of AIML, from University of Petroleum and Energy Studies(UPES), Dehradun. 
+A 4th year undergraduate majoring in Computer Science and Engineering with a specialization in AIML, from the University of Petroleum and Energy Studies(UPES), Dehradun. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impeccable16&label=Profile%20views&color=0e75b6&style=flat" alt="impeccable16" /> </p>
 <a align= "center" href="https://github.com/impeccable16">
